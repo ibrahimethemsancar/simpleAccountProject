@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" />
+  </component>
+  <component name="AutoImportedSourceRoots">
+    <option name="directories">
+      <list>
+        <option value="C:\Users\sungu\OneDrive\Masaüstü\Projects\account\accountAPI/src/main/java" />
+        <option value="C:\Users\sungu\OneDrive\Masaüstü\Projects\account\accountAPI/src/main/kotlin" />
+        <option value="C:\Users\sungu\OneDrive\Masaüstü\Projects\account\accountAPI/src/test/java" />
+        <option value="C:\Users\sungu\OneDrive\Masaüstü\Projects\account\accountAPI/src/test/kotlin" />
+      </list>
+    </option>
+  </component>
+</module>
